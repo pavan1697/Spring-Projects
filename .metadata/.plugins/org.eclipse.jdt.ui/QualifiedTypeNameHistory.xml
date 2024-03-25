@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.pavan.springex.Greeting"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.GreetingImpl"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.Traveller"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.MessageSevice"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.CourseService"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.EmailService"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.JavaCourseService"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.JavaConfig"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.Student"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.Doctor"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.Pharmacy"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.Patient"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.HomeLoanService"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.RealestateService"/>
+    <fullyQualifiedTypeName name="com.pavan.springex.Person"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.Builder"/>
+    <fullyQualifiedTypeName name="lombok.ToString"/>
+    <fullyQualifiedTypeName name="lombok.Employee"/>
+</qualifiedTypeNameHistroy>

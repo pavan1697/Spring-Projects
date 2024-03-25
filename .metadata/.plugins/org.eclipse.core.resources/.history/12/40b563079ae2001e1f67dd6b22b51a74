@@ -1,0 +1,34 @@
+package com.pavan.springex;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Student 
+{
+	private EmailService emailService;
+	private JavaCourseService courseService;	
+
+	public EmailService getEmailService() {
+		return emailService;
+	}
+	@Autowired
+	public void setEmailService(EmailService emailService) {
+		this.emailService = emailService;
+	}
+
+	public JavaCourseService getCourseService() {
+		return courseService;
+	}
+	
+	@Autowired
+	public void setCourseService(JavaCourseService courseService) {
+		this.courseService = courseService;
+	}
+	
+	public void details()
+	{
+		emailService.message();
+		courseService.courseInfo();
+	}
+}

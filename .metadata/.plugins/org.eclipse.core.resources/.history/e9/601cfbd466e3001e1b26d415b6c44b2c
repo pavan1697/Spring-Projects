@@ -1,0 +1,9 @@
+package com.pavan.springex;
+
+public class RealestateService {
+
+	public void realestateInfo()
+	{
+		System.out.println("Here we Provide Realestate Services with good Profits");
+	}
+}

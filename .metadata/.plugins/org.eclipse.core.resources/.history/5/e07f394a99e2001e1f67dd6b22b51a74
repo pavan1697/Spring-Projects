@@ -1,0 +1,12 @@
+package com.pavan.springex;
+
+public class JavaCourseService implements CourseService
+{
+
+	@Override
+	public void courseInfo() {
+		System.out.println("Java FullStack Course contains core java,adv java,spring,springboot");
+		
+	}
+
+}

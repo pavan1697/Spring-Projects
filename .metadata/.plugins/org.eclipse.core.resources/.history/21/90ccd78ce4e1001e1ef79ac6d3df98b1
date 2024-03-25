@@ -1,0 +1,14 @@
+package com.pavan.springex;
+
+public class Car implements vehicle
+{
+	private String model;
+	private int max_speed;
+	@Override
+	public void move() {
+		System.out.println("You selected a vehicle:Car");
+		System.out.println("Model of:"+model);
+		System.out.println("With Max Speed of"+max_speed);
+	}
+
+}

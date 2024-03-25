@@ -1,0 +1,12 @@
+package lombok;
+@Setter
+@Getter
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+public class Employee {
+	private int empid;
+	private String empname;
+	private double empsalary;
+	
+}

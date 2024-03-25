@@ -1,0 +1,14 @@
+package com.pavan.springex;
+
+public class Bus implements vehicle
+{
+	private String busType;
+	private int max_speed;
+	@Override
+	public void move() {
+		System.out.println("You selected a vehicle:Bus");
+		System.out.println("Type of Bus:"+busType);
+		System.out.println("With Max Speed of"+max_speed);
+	}
+
+}

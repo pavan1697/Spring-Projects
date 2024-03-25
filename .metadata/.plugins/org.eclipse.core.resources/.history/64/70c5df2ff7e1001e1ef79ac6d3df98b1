@@ -1,0 +1,12 @@
+package com.pavan.springex;
+
+public class EmailService implements MessageSevice
+{
+
+	@Override
+	public void message() {
+		System.out.println("Check your Email for servies");
+		
+	}
+
+}

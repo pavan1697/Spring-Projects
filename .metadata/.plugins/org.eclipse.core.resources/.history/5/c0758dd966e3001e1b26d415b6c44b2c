@@ -1,0 +1,9 @@
+package com.pavan.springex;
+
+public class HomeLoanService {
+	
+	public void loanInfo()
+	{
+		System.out.println("Here we Provide Home Loan Services");
+	}
+}

@@ -1,0 +1,24 @@
+package com.pavan.springex;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Student 
+{
+	private EmailService emailService;
+	private JavaCourseService courseService;
+	
+	
+	public Student(EmailService emailService, JavaCourseService courseService) {
+		super();
+		this.emailService = emailService;
+		this.courseService = courseService;
+	}
+
+
+	public void details()
+	{
+		emailService.message();
+		courseService.courseInfo();
+	}
+}
